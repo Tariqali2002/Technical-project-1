@@ -1,1 +1,1 @@
-# Technical-project-1
+# Devloper-Tariq/Project-GenAI
